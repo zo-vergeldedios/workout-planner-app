@@ -29,6 +29,8 @@ Users can organize workouts by day (Monday–Sunday), store exercises per day, a
 
 ---
 
+## Built without AI assistance
+
 ## What I Learned
 
 This project helped me move from writing JavaScript to thinking like a full-stack developer.
